@@ -8,7 +8,6 @@ create time: 2018/12/23
 """
 
 import HTMLTestRunner
-import time
 from Config.VarConfig import *
 from Common.SuiteMathod import creatsuite
 
